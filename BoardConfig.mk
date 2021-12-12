@@ -5,8 +5,8 @@ TARGET_NO_BOOTLOADER := true
 TARGET_BOOTLOADER_BOARD_NAME := tbeltektt     # From ro.product.board
 
 # These two are for MTK Chipsets only
-BOARD_USES_MTK_HARDWARE := true
-BOARD_HAS_MTK_HARDWARE := true
+#BOARD_USES_MTK_HARDWARE := true
+#BOARD_HAS_MTK_HARDWARE := true
 
 # Recovery
 TARGET_USERIMAGES_USE_EXT4 := true
